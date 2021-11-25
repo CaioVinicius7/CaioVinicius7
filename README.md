@@ -20,5 +20,5 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="30" width="30" src="https://camo.githubusercontent.com/3c1ed3446f064ef57b8acc45e15d417db8c036b91fcbb03873cef17e25394909/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313530313032313333392f3334312f6769742e706e673f31353031303231333339">
+  <img align="center" alt="Git" height="30" width="30" src="https://img2.gratispng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg">
 </div>
