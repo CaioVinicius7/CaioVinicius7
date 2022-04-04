@@ -1,7 +1,7 @@
 ### Hello, I am Caio 👋
 
-- 🔭 I’m currently working on D1 | Smarkio
-- 🌱 I’m currently learning node.js
+- 🔭 I’m currently working on D1
+- 🌱 I’m currently learning node.js with typescript
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1591808522/9339/brazil.png?1591808522"/>  i´m brazilian
 
 <div>
@@ -10,7 +10,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-caio%20pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/caio-pereira-87a761200) 
 [![Gmail Badge](https://img.shields.io/badge/-caio1525pereira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caio1525pereira@gmail.com)](mailto:caio1525pereira@gmail.com)
-[![whatsapp Badge](https://img.shields.io/badge/-WhatsApp-34af23?style=flat-square&logo=whatsapp&logoColor=white)](mailto:caio1525pereira@gmail.com)
 
 ##
 
