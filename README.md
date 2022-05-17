@@ -5,7 +5,7 @@
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1591808522/9339/brazil.png?1591808522"/>  i´m brazilian
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovinicius7&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovinicius7&layout=compact&theme=dracula"/>
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-caio%20pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/caio-pereira-87a761200) 
