@@ -1,6 +1,6 @@
 ### Hello, I am Caio 👋
 
-- 🔭 I’m currently working on D1
+- 🔭 I’m currently working on Zenvia
 - 🌱 I’m currently learning Node and React with typescript
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1591808522/9339/brazil.png?1591808522"/>  i´m brazilian
 
