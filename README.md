@@ -2,7 +2,7 @@
 
 ### Hello, I am Caio 👋
 
-- 🔭 I’m currently working on Zenvia
+- 🔭 I’m currently working on Mevo
 
 - 🌱 I’m currently learning Node, React and React Native with typescript
 
