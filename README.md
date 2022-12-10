@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Mevo
 
-- 🌱 I’m currently learning Node, React and React Native.
+- 🌱 I’m currently learning Node, React, React Native and Typescript.
 
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1591808522/9339/brazil.png?1591808522"/> i´m brazilian
 
