@@ -2,7 +2,7 @@
 
 ### Hello, I am Caio 👋
 
-- 🔭 I’m currently working on Mevo
+- 🔭 I’m currently working on Mevo as a software engineer
 
 - 🌱 I’m currently learning Node, React, React Native and Typescript.
 
