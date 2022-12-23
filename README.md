@@ -13,10 +13,11 @@
 
 # 📊 GitHub Stats:
 
-<center>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?      username=caiovinicius7&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=caiovinicius7&theme=nord&hide_border=false)<br/>
-</center>
+<div style="display: flex; justify-content: center;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?      username=caiovinicius7&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caiovinicius7&theme=nord&hide_border=false" />
+</div>
   
 # 💻 Tech Stack:
 
