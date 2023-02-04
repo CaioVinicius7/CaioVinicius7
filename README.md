@@ -2,9 +2,9 @@
 
 ### Hello, I am Caio 👋
 
-- 🔭 I’m currently working on Mevo as a fullstack software engineer.
+- 🔭 I’m currently working on Mevo as a fullstack software engineer
 
-- 🌱 I’m currently learning Node, React and Typescript.
+- 🌱 I’m currently learning Node, React and Typescript
 
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1591808522/9339/brazil.png?1591808522"/> i´m brazilian
 
