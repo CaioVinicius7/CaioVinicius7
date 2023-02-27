@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### Hello, I am Caio 👋
+### Hello, I am Caio Vinícius 👋
 
 - 🔭 I’m currently working on Mevo as a fullstack engineer.
 
