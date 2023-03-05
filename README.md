@@ -2,7 +2,7 @@
 
 ### Hello, I am Caio Vinícius 👋
 
-- 🔭 I’m currently working on Mevo as a fullstack software engineer.
+- 🔭 I’m currently working on Mevo as a software engineer.
 
 - 🌱 I’m currently learning Node, React and Typescript.
 
