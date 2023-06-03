@@ -2,11 +2,11 @@
 
 ### Hello, I am Caio Vinícius 👋
 
-- 🔭 I’m currently working on Mevo as a fullstack software engineer
+- 🔭 I’m currently working on Mevo as a fullstack software engineer.
 
-- 🌱 I’m currently learning Node, React and Typescript
+- 🌱 I’m currently learning Node, React and Typescript.
 
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1591808522/9339/brazil.png?1591808522"/> i´m brazilian
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1591808522/9339/brazil.png?1591808522"/> i´m brazilian.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Caio%20Vinícius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/caio-vin%C3%ADcius-87a761200/)
 [![Gmail Badge](https://img.shields.io/badge/-caio1525pereira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caio1525pereira@gmail.com)](mailto:caio1525pereira@gmail.com)
